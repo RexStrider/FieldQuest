@@ -1,0 +1,8 @@
+{
+  "name": "FieldQuest",
+  "version": "1.0.0",
+  "description": "A map making tool for table top games",
+  "main": "index.js",
+  "author": "Waterman_Rose",
+  "license": "MIT"
+}
